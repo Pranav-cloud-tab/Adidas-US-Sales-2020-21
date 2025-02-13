@@ -2,7 +2,9 @@
 <img src="Coffee.jpeg" width="50%">
 
 ## Overview : 
-This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
+In terms of states, California, Texas, New York, and Florida remained the top-performing regions for Adidas sales. These states have large populations and strong consumer demand for athletic and casual footwear and apparel.
+
+Among cities, Los Angeles, New York City, Chicago, and Houston stood out as key markets for Adidas. These cities have a high concentration of Adidas stores and a strong presence of loyal customers.
 
 ## Tool used :
 ![Tools](powerQueryLogo_PowerQuery.avif)
