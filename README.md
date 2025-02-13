@@ -20,7 +20,9 @@ Among cities, Los Angeles, New York City, Chicago, and Houston stood out as key 
 
 
 ## Data Story :
-I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce costs of operations.
+The analysis of adidas' US sales data for 2020-21 reveals a mixed picture. Adidas managed to maintain a strong presence in the US market. Sales were particularly strong in the athletic footwear segment, with the brand continuing to be a popular choice among consumers. 
+
+However, there were also areas of concern. Sales of apparel saw a decline
 
 ## Dashboard :
 <img src="Adidas US Sales Dashboard.png" width="99%">
