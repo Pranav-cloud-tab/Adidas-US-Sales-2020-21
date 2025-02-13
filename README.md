@@ -14,11 +14,9 @@ Among cities, Los Angeles, New York City, Chicago, and Houston stood out as key 
 
 2. Category Performance: Certain categories such as athleisure and running shoes saw growth in sales, while others like formalwear and performance gear experienced a decline.
 
-3. Marketing and Promotion Strategy: Adidas' marketing and promotional efforts played a crucial role in driving sales, with successful campaigns helping to boost consumer engagement and sales.
+3. Competitive Landscape: The analysis also includes a comparison with competitors in the industry to assess Adidas' positioning and market share in the US market.
 
-4. Competitive Landscape: The analysis also includes a comparison with competitors in the industry to assess Adidas' positioning and market share in the US market.
-
-5. Future Outlook: Based on the analysis, insights can be drawn on potential strategies for Adidas to further improve sales performance in the US market, including focusing on digital marketing, expanding product offerings, and strengthening customer relationships.
+4. Future Outlook: Based on the analysis, insights can be drawn on potential strategies for Adidas to further improve sales performance in the US market, including focusing on digital marketing, expanding product offerings, and strengthening customer relationships.
 
 
 ## Data Story :
