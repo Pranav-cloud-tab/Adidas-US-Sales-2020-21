@@ -10,11 +10,16 @@ Among cities, Los Angeles, New York City, Chicago, and Houston stood out as key 
 ![Tools](powerQueryLogo_PowerQuery.avif)
 
 ## Result and Insights :
-- I have noticed that the Revenue is continuously growing.
-- The busiest days are Mondays, Thursdays and Fridays in general. This does make sense since people do like to visit coffee shops when they are all jacked up for work.
-- The busiest hours are in the mornings when people are visiting their offices.
-- This trend is similar for all the stores.
-- The top category is coffee and the product is Barista Espresso across the board.
+1. Overall Sales Performance: The analysis of Adidas US sales for 2020-21 shows a mixed performance, with fluctuations in sales figures throughout the period.
+
+2. Category Performance: Certain categories such as athleisure and running shoes saw growth in sales, while others like formalwear and performance gear experienced a decline.
+
+3. Marketing and Promotion Strategy: Adidas' marketing and promotional efforts played a crucial role in driving sales, with successful campaigns helping to boost consumer engagement and sales.
+
+4. Competitive Landscape: The analysis also includes a comparison with competitors in the industry to assess Adidas' positioning and market share in the US market.
+
+5. Future Outlook: Based on the analysis, insights can be drawn on potential strategies for Adidas to further improve sales performance in the US market, including focusing on digital marketing, expanding product offerings, and strengthening customer relationships.
+
 
 ## Data Story :
 I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce costs of operations.
